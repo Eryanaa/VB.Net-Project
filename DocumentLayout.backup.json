@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|c:\\users\\putri\\onedrive\\documents\\programming vs\\final vb project\\ordering management system_group 4\\dashboardform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:dashboardform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\orderhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:orderhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\chooseproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:chooseproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\extraservicesform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:extraservicesform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\customerinfoform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:customerinfoform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\extraservicesform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:extraservicesform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\chooseproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:chooseproductform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\customerinfoform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:customerinfoform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\ordersession.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:ordersession.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\orderhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:orderhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{41FA5879-E09C-4B8A-86C5-DB9C70362306}|Final Project VB NET.vbproj|solutionrelative:splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\DashboardForm.Designer.vb",
+              "RelativeDocumentMoniker": "DashboardForm.Designer.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\DashboardForm.Designer.vb",
+              "RelativeToolTip": "DashboardForm.Designer.vb",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAcwKwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-07T06:44:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtraServicesForm.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\ExtraServicesForm.vb",
+              "RelativeDocumentMoniker": "ExtraServicesForm.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\ExtraServicesForm.vb",
+              "RelativeToolTip": "ExtraServicesForm.vb",
+              "ViewState": "AgIAANYAAAAAAAAAAAAAAPcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T17:23:47.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerInfoForm.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\CustomerInfoForm.vb",
+              "RelativeDocumentMoniker": "CustomerInfoForm.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\CustomerInfoForm.vb",
+              "RelativeToolTip": "CustomerInfoForm.vb",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T16:59:51.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChooseProductForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\ChooseProductForm.vb",
+              "RelativeDocumentMoniker": "ChooseProductForm.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Final Project VB NET 3.0\\ChooseProductForm.vb [Design]",
+              "RelativeToolTip": "..\\Final Project VB NET 3.0\\ChooseProductForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:38:39.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\DashboardForm.vb",
+              "RelativeDocumentMoniker": "DashboardForm.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Final Project VB NET 3.0\\DashboardForm.vb [Design]",
+              "RelativeToolTip": "..\\Final Project VB NET 3.0\\DashboardForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:38:39.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderHistory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\OrderHistory.vb",
+              "RelativeDocumentMoniker": "OrderHistory.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Final Project VB NET 3.0\\OrderHistory.vb [Design]",
+              "RelativeToolTip": "..\\Final Project VB NET 3.0\\OrderHistory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:38:39.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderSession.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\OrderSession.vb",
+              "RelativeDocumentMoniker": "OrderSession.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\OrderSession.vb",
+              "RelativeToolTip": "OrderSession.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:59:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderHistory.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\OrderHistory.vb",
+              "RelativeDocumentMoniker": "OrderHistory.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\OrderHistory.vb",
+              "RelativeToolTip": "OrderHistory.vb",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAwB8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:48:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChooseProductForm.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\ChooseProductForm.vb",
+              "RelativeDocumentMoniker": "ChooseProductForm.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\ChooseProductForm.vb",
+              "RelativeToolTip": "ChooseProductForm.vb",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:51:21.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtraServicesForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\ExtraServicesForm.vb",
+              "RelativeDocumentMoniker": "ExtraServicesForm.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Final Project VB NET 3.0\\ExtraServicesForm.vb [Design]",
+              "RelativeToolTip": "..\\Final Project VB NET 3.0\\ExtraServicesForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:38:39.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardForm.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\DashboardForm.vb",
+              "RelativeDocumentMoniker": "DashboardForm.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\DashboardForm.vb",
+              "RelativeToolTip": "DashboardForm.vb",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T16:14:16.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerInfoForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\CustomerInfoForm.vb",
+              "RelativeDocumentMoniker": "CustomerInfoForm.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Final Project VB NET 3.0\\CustomerInfoForm.vb [Design]",
+              "RelativeToolTip": "..\\Final Project VB NET 3.0\\CustomerInfoForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:38:39.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutBox.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\AboutBox.vb",
+              "RelativeDocumentMoniker": "AboutBox.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\AboutBox.vb",
+              "RelativeToolTip": "AboutBox.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T16:11:07.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SplashScreen.vb",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\SplashScreen.vb",
+              "RelativeDocumentMoniker": "SplashScreen.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\SplashScreen.vb",
+              "RelativeToolTip": "SplashScreen.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:50:59.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SplashScreen.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\SplashScreen.vb",
+              "RelativeDocumentMoniker": "SplashScreen.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Final Project VB NET 3.0\\SplashScreen.vb [Design]",
+              "RelativeToolTip": "..\\Final Project VB NET 3.0\\SplashScreen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:38:39.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutBox.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Ordering Management System_Group 4\\AboutBox.vb",
+              "RelativeDocumentMoniker": "AboutBox.vb",
+              "ToolTip": "C:\\Users\\putri\\OneDrive\\Documents\\Programming VS\\Final vb project\\Final Project VB NET 3.0\\AboutBox.vb [Design]",
+              "RelativeToolTip": "..\\Final Project VB NET 3.0\\AboutBox.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-06T14:38:39.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
